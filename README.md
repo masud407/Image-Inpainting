@@ -1,0 +1,1 @@
+The goal of the project is to implement the BSCB image inpainting method. For simulation, use rgb_main.m file. For detailed descriptions, follow the ppt file. Some sample images that need to be inpainted along with the mask are provided here.
